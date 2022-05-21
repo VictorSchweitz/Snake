@@ -1,0 +1,13 @@
+:root
+{
+   /* Colors */
+   --game-board-border-color: #1fbb1fd5;
+   --snake-bg-color: #00aaff;
+   --food-bg-color: #ffd500;
+
+   /* Radii */
+   --base-border-radius: 10px;
+
+   /* Shadows */
+   --box-shadow: 0 2px 5px rgba(0, 0, 0, .3);
+}
